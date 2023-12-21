@@ -3,7 +3,7 @@
         "id": 1,
         "floor": 1,
         "places": [
-            true,
+            false,
             false,
             false,
             false,
